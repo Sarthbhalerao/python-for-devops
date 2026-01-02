@@ -1,0 +1,9 @@
+{
+  "smtp": {
+    "server": "smtp.gmail.com",
+    "port": 587,
+    "sender_email": "sarthbhalerao@gmail.com",
+    "sender_password": "EnterAppPassword",
+    "receiver_email": "bhaleraosarthak.3994@gmail.com"
+  }
+}
